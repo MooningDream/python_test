@@ -1,1 +1,3 @@
-print('I "said" do not touch this.')
+first = float(input(">"))
+second = float(input(">"))
+print(first + second)
